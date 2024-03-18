@@ -11,8 +11,7 @@
 - 🌐 Designing and implementing APIs for website interaction.
 - 🤖 Crafting Telegram bots to enhance user engagement and automate tasks.
 
+##
 
-<!---
-VenyaPy/VenyaPy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👉 You will find links to contact me in my profile. Good luck!
+
