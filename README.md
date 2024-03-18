@@ -12,5 +12,6 @@
 
 ##
 
+- 👉 Email: ve.po2012@yandex.ru
 - 👉 You will find links to contact me in my profile. Good luck!
 
