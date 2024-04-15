@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🖥️ I'm a Backend Developer. I specialize in creating APIs for websites and have expertise in developing Telegram bots.
+- 🖥️ I'm a Backend Developer.
 - 🔄 My journey began as a Content Manager, and I've since transitioned into a developer role.
 
 ## What I Do
