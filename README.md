@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🖥️ I'm a Backend Developer. My Tech Stack: Python and JavaScript
+- 🖥️ I'm a Fullstack Developer, specializing in Backend Development.
 - 🔄 My journey began as a Content Manager, and I've since transitioned into a developer role.
 
 ## My Tech Stack
