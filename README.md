@@ -2,13 +2,20 @@
 
 ## About Me
 
-- 🖥️ I'm a Backend Developer.
+- 🖥️ I'm a Backend Developer. My Tech Stack: Python and JavaScript
 - 🔄 My journey began as a Content Manager, and I've since transitioned into a developer role.
 
-## What I Do
+## My Tech Stack
 
-- 🌐 Designing and implementing APIs for website interaction.
-- 🤖 Crafting Telegram bots to enhance user engagement and automate tasks.
+- 🌐 Languages: JavaScript, Python
+- 🎨 Web Technologies: HTML, CSS
+- 🚀 Backend Frameworks: FastAPI (Python)
+- 🐘 Database Systems: PostgreSQL, SQLite
+- 🗃️ ORM: SQLAlchemy (Python)
+- 🤖 Telegram Bot Framework: Aiogram (Python)
+- 🔄 Caching: Redis
+- 🎈 Task Queue: Celery (Python)
+- 🐳 Containerization: Docker
 
 ##
 
