@@ -11,10 +11,10 @@
 - 🎨 Web Technologies: HTML, CSS
 - 🚀 Backend Frameworks: FastAPI
 - 🐘 Database Systems: PostgreSQL, SQLite
-- 🗃️ ORM: SQLAlchemy (Python)
-- 🤖 Telegram Bot Framework: Aiogram (Python)
+- 🗃️ ORM: SQLAlchemy
+- 🤖 Telegram Bot Framework: Aiogram
 - 🔄 Caching: Redis
-- 🎈 Task Queue: Celery (Python)
+- 🎈 Task Queue: Celery
 - 🐳 Containerization: Docker
 
 ##
