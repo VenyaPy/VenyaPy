@@ -12,7 +12,7 @@
 - 🚀 Backend Frameworks: FastAPI, Flask
 - 🐘 Database Systems: PostgreSQL, SQLite
 - 🗃️ ORM: SQLAlchemy
-- 🤖 Telegram Bot Framework: Aiogram
+- 🤖 Telegram Bot Framework: Aiogram, Telegram-python-bot
 - 🔄 Caching: Redis
 - 🎈 Task Queue: Celery
 - 🐳 Containerization: Docker
