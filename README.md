@@ -9,7 +9,7 @@
 
 - 🌐 Languages: JavaScript, Python
 - 🎨 Web Technologies: HTML, CSS, React JS
-- 🚀 Backend Frameworks: FastAPI
+- 🚀 Backend Frameworks: FastAPI, Flask
 - 🐘 Database Systems: PostgreSQL, SQLite
 - 🗃️ ORM: SQLAlchemy
 - 🤖 Telegram Bot Framework: Aiogram
