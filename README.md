@@ -8,7 +8,7 @@
 ## My Tech Stack
 
 - 🌐 Languages: JavaScript, Python
-- 🎨 Web Technologies: HTML, CSS, React JS
+- 🎨 Web Technologies: HTML, CSS, React
 - 🚀 Backend Frameworks: FastAPI, Flask
 - 🐘 Database Systems: PostgreSQL, SQLite
 - 🗃️ ORM: SQLAlchemy
