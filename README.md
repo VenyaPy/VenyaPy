@@ -11,6 +11,7 @@
 - 🎨 Web Technologies: HTML, CSS, ReactJS
 - 🚀 Backend Frameworks: FastAPI, Flask
 - 🐘 Database Systems: PostgreSQL, SQLite
+- 🔄 Migrations: Alembic
 - 🗃️ ORM: SQLAlchemy
 - 🤖 Telegram Bot Framework: Aiogram, Telegram-python-bot
 - 🔄 Caching: Redis
